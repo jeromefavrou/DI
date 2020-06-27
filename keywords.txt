@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DI	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+n_fixed	KEYWORD2
+p_fixed	KEYWORD2
+init KEYWORD2
+set_filter_freq KEYWORD2
+read KEYWORD2
+
+######################################
+# Instances (KEYWORD2)
+#######################################
+
+Filter KEYWORD2
+Signal KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+NONE LITERAL1
+PASS_LOW LITERAL1
+PULL_DOWN LITERAL1
+PULL_UP LITERAL1
