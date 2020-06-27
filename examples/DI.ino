@@ -4,7 +4,7 @@ DI bp;
 bool stat_led;
 void setup() 
 {
-  Serial.begin(9600);
+
   bp.init(6,INPUT,DI::Signal::PULL_UP);
   
   bp.set_filter_freq(20.0);
